@@ -1,4 +1,4 @@
-### Hi there, I'm [Saswat](https://www.linkedin.com/in/saswat-sarangi/) 👋
+### Hi there, I'm [Saswat]https://twitter.com/saswat_sarangi 👋
 
 
 
@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Android Development.
 - 👯 I’m looking to collaborate on Deep Learning Projects.
 - 🤔 I’m looking for help with Kaggle Projects.
-- 📫 How to reach me: [Here](www.gmail.com/saswat.sarangi.18cse@bmu.edu.in)
+- 📫 How to reach me: [Here](https://www.linkedin.com/in/saswat-sarangi/)
 
 
 ![Saswat's github stats](https://github-readme-stats.vercel.app/api?username=SAZZZO99&theme=chartreuse-dark&show_icons=true)
