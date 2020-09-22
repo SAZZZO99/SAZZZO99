@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**SAZZZO99/SAZZZO99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Computer Vision and NLP
+- 🌱 I’m currently learning Android Development
+- 👯 I’m looking to collaborate on Deep Learning Projects
+- 🤔 I’m looking for help with 
+- 💬 Ask me about Computers,Physics and Football
+- 📫 How to reach me: [Here](https://www.linkedin.com/in/saswat-sarangi/)
+
+
+![Saswat's github stats](https://github-readme-stats.vercel.app/api?username=SAZZZO99&theme=chartreuse-dark&show_icons=true)
+
