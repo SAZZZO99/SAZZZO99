@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Android Development.
 - 👯 I’m looking to collaborate on Deep Learning Projects.
 - 🤔 I’m looking for help with Kaggle Projects.
-- 📫 How to reach me: [Here](saswat.sarangi.18cse@bmu.edu.in)
+- 📫 How to reach me: [Here](www.gmail.com/saswat.sarangi.18cse@bmu.edu.in)
 
 
 ![Saswat's github stats](https://github-readme-stats.vercel.app/api?username=SAZZZO99&theme=chartreuse-dark&show_icons=true)
