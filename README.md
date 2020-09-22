@@ -11,5 +11,5 @@
 
 
 ![Saswat's github stats](https://github-readme-stats.vercel.app/api?username=SAZZZO99&theme=chartreuse-dark&show_icons=true&hide=issues,contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAZZZO99&layout=compact&theme=chartreuse-dark&show_icons=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAZZZO99&layout=compact&theme=chartreuse-dark&show_icons=true)
 
