@@ -1,4 +1,4 @@
-### Hi there, I'm [Saswat](https://twitter.com/saswat_sarangi) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+### Hi there, I'm [Saswat](https://twitter.com/saswat_sarangi) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 
