@@ -8,7 +8,7 @@
 - 🤔 I’m looking for internships.
 - 📫 Reach me at: [Here](https://www.linkedin.com/in/saswat-sarangi/)
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/Tools-AndroidStudio-informational?style=flat&logo=android&logoColor=white&color=green)
 
 
-## &#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
 ![Saswat's github stats](https://github-readme-stats.vercel.app/api?username=SAZZZO99&theme=chartreuse-dark&show_icons=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAZZZO99&layout=compact&theme=chartreuse-dark&show_icons=true)
 
