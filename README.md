@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/Tools-AndroidStudio-informational?style=flat&logo=android&logoColor=white&color=green)
 
 
-##
+## &#x1f4c8; GitHub Stats
 ![Saswat's github stats](https://github-readme-stats.vercel.app/api?username=SAZZZO99&theme=chartreuse-dark&show_icons=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAZZZO99&layout=compact&theme=chartreuse-dark&show_icons=true)
 
