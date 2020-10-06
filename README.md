@@ -16,10 +16,11 @@
 ![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Tools-GoogleColab-informational?style=flat&logo=GoogleColab&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tools-GoogleColab-informational?style=flat&logo=google&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tools-AndroidStudio-informational?style=flat&logo=android&logoColor=white&color=green)
 
 
+##
 ![Saswat's github stats](https://github-readme-stats.vercel.app/api?username=SAZZZO99&theme=chartreuse-dark&show_icons=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAZZZO99&layout=compact&theme=chartreuse-dark&show_icons=true)
 
