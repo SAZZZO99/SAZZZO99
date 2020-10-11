@@ -36,8 +36,5 @@
 ![Saswat's github stats](https://github-readme-stats.vercel.app/api?username=SAZZZO99&theme=chartreuse-dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAZZZO99&layout=compact&theme=chartreuse-dark&show_icons=true)
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SAZZZ099">
-</a>
-
+![](https://komarev.com/ghpvc/?username=SAZZZO99&style=plastic&label=PROFILE+VIEWS)
 
