@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Computer Vision and NLP.
 - 🌱 I’m currently learning Android Development.
-- 👯 I’m looking to collaborate on Kaggle Projects.
+- 👯 I’m looking to collaborate on Kaggle Projects
 - 🤔 I’m looking for internships.
 - 📫 Reach me at: [Here](https://www.linkedin.com/in/saswat-sarangi/)
 <hr>
