@@ -24,7 +24,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Machine Learning" width="30px" src="https://www.ischool.berkeley.edu/sites/default/files/styles/fullscreen/public/event_teaser_image/ml-at-b.png?itok=W9si17Kf" />
-<img align="left" alt="Deep Learning" width="26px" src="https://xtract.ai/wp-content/uploads/2017/07/Neural-Network-Icon-3.png" />
 <img align="left" alt="SkLearn" width="30px" src="https://hadrienj.github.io/assets/images/icons/sklearn.png" />
 <img align="left" alt="OpenCV" width="26px" src="http://opencv.jp/opencv-1.1.0_org/docs/opencv-logo.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png" />
